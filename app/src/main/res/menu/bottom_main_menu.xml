@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_game"
+        android:icon="@drawable/baseline_sports_esports_24"
+        android:title="@string/main" />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/baseline_query_stats_24"
+        android:title="@string/progress" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_face_24"
+        android:title="@string/profile"/>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/outline_work_24"
+        android:title="@string/about"/>
+</menu>

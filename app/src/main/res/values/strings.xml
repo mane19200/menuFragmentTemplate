@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThePhrasalGames</string>
+    <string name="main">Main</string>
+    <string name="progress">Progress</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+</resources>

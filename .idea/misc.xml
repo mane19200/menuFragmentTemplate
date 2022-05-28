@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/drawable/outline_work_24.xml" value="0.189" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout-land/game_screen.xml" value="0.1" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout-land/rwa_prhrasal.xml" value="0.1715167548500882" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout-port/test_layout.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/activity_main.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/game_screen.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_fragment_about.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_fragment_main.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_fragment_profile.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_fragment_stats.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_game.xml" value="0.2" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/menu_navigation.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/presentation_animation.xml" value="0.22" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/layout/test_layout.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/MARJ_/AndroidStudioProjects/ThePhrasalGames/app/src/main/res/menu/bottom_main_menu.xml" value="0.18072916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
